@@ -1,0 +1,6 @@
+name: Master
+description: Universal orchestrator — creates agents, manages skills, generates PDFs, handles Git, research
+
+telegram_bot_token_env: MASTER_BOT_TOKEN
+
+model: claude-sonnet-4-6
